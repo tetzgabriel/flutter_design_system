@@ -5,88 +5,88 @@ import 'package:ds/theme/ds_colors.dart';
 void main() {
   const DsColors dsColors = DsColors();
 
-  test('Should return purple100', () {
-    expect(dsColors.yellow100, const Color(0xFF764980));
+  test('Should return yellow100', () {
+    expect(dsColors.yellow100, const Color(0xFFF9EE77));
   });
 
-  test('Should return purple200', () {
-    expect(dsColors.yellow200, const Color(0xFF583362));
+  test('Should return yellow200', () {
+    expect(dsColors.yellow200, const Color(0xFFF8EC62));
   });
 
-  test('Should return purple300', () {
-    expect(dsColors.yellow300, const Color(0xFF522853));
+  test('Should return yellow300', () {
+    expect(dsColors.yellow300, const Color(0xFFF8EA4F));
   });
 
-  test('Should return purple400', () {
-    expect(dsColors.yellow400, const Color(0xFF491F54));
+  test('Should return yellow400', () {
+    expect(dsColors.yellow400, const Color(0xFFF7E733));
   });
 
-  test('Should return purple500', () {
-    expect(dsColors.yellow500, const Color(0xFF471D58));
+  test('Should return yellow500', () {
+    expect(dsColors.yellow500, const Color(0xFFF6E528));
   });
 
-  test('Should return purple600', () {
-    expect(dsColors.yellow600, const Color(0xFF4A1F60));
+  test('Should return yellow600', () {
+    expect(dsColors.yellow600, const Color(0xFFF5E214));
   });
 
-  test('Should return orange100', () {
-    expect(dsColors.red100, const Color(0xFFFFFAF7));
+  test('Should return red100', () {
+    expect(dsColors.red100, const Color(0xFFFF4760));
   });
 
-  test('Should return orange200', () {
-    expect(dsColors.red200, const Color(0xFFFBF3F3));
+  test('Should return red200', () {
+    expect(dsColors.red200, const Color(0xFFFF334E));
   });
 
-  test('Should return orange300', () {
-    expect(dsColors.red300, const Color(0xFFF4EEE0));
+  test('Should return red300', () {
+    expect(dsColors.red300, const Color(0xFFFF1F3D));
   });
 
-  test('Should return orange400', () {
-    expect(dsColors.red400, const Color(0xFFE5A55B));
+  test('Should return red400', () {
+    expect(dsColors.red400, const Color(0xFFFF0A2B));
   });
 
-  test('Should return orange500', () {
-    expect(dsColors.red500, const Color(0xFFE7A269));
+  test('Should return red500', () {
+    expect(dsColors.red500, const Color(0xFFF50021));
   });
 
-  test('Should return orange600', () {
-    expect(dsColors.red600, const Color(0xFFD8813E));
+  test('Should return red600', () {
+    expect(dsColors.red600, const Color(0xFFE0001E));
   });
 
   test('Should return grey100', () {
-    expect(dsColors.grey100, const Color(0xFFB7B7B7));
+    expect(dsColors.grey100, const Color(0xFF484A70));
   });
 
   test('Should return grey200', () {
-    expect(dsColors.grey200, const Color(0xFF666666));
+    expect(dsColors.grey200, const Color(0xFF404264));
   });
 
   test('Should return grey300', () {
-    expect(dsColors.grey300, const Color(0xFF4E4E4E));
+    expect(dsColors.grey300, const Color(0xFF383A57));
   });
 
   test('Should return grey400', () {
-    expect(dsColors.grey400, const Color(0xFF3E3E3E));
+    expect(dsColors.grey400, const Color(0xFF30324B));
   });
 
   test('Should return grey500', () {
-    expect(dsColors.grey500, const Color(0xFF23282D));
+    expect(dsColors.grey500, const Color(0xFF282A3E));
   });
 
   test('Should return grey600', () {
-    expect(dsColors.grey600, const Color(0xFF282123));
+    expect(dsColors.grey600, const Color(0xFF202132));
   });
 
   test('Should return green100', () {
-    expect(dsColors.green100, const Color(0xFF01C19A));
+    expect(dsColors.green100, const Color(0xFF73A267));
   });
 
   test('Should return green200', () {
-    expect(dsColors.green200, const Color(0xFF0EBF9E));
+    expect(dsColors.green200, const Color(0xFF69995D));
   });
 
   test('Should return green300', () {
-    expect(dsColors.green300, const Color(0xFF0FBA97));
+    expect(dsColors.green300, const Color(0xFF608B55));
   });
 
   test('Should return white100', () {
@@ -94,10 +94,10 @@ void main() {
   });
 
   test('Should return white200', () {
-    expect(dsColors.white200, const Color(0xFFF8F8F8));
+    expect(dsColors.white200, const Color(0xFFF0EDEE));
   });
 
   test('Should return white300', () {
-    expect(dsColors.white300, const Color(0xFFEFEFEF));
+    expect(dsColors.white300, const Color(0xFFECE9EA));
   });
 }

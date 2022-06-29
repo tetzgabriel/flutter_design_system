@@ -9,7 +9,7 @@ class DsTexts {
         fontSize: 30,
         letterSpacing: 1.2,
         fontWeight: FontWeight.w900,
-        fontFamily: 'NexaSlab',
+        fontFamily: 'ABeeZee',
         package: _dsPackage,
       );
 
@@ -17,7 +17,7 @@ class DsTexts {
         fontSize: 28,
         letterSpacing: 1.2,
         fontWeight: FontWeight.w900,
-        fontFamily: 'NexaSlab',
+        fontFamily: 'ABeeZee',
         package: _dsPackage,
       );
 
@@ -25,7 +25,7 @@ class DsTexts {
         fontSize: 22,
         letterSpacing: 1.2,
         fontWeight: FontWeight.w900,
-        fontFamily: 'NexaSlab',
+        fontFamily: 'ABeeZee',
         package: _dsPackage,
       );
 
@@ -33,7 +33,7 @@ class DsTexts {
         fontSize: 20,
         letterSpacing: 1.2,
         fontWeight: FontWeight.w900,
-        fontFamily: 'NexaSlab',
+        fontFamily: 'ABeeZee',
         package: _dsPackage,
       );
 
@@ -41,7 +41,7 @@ class DsTexts {
         fontSize: 18,
         letterSpacing: 1.2,
         fontWeight: FontWeight.w800,
-        fontFamily: 'NexaSlab',
+        fontFamily: 'ABeeZee',
         package: _dsPackage,
       );
 
@@ -49,7 +49,7 @@ class DsTexts {
         fontSize: 16,
         letterSpacing: 1.2,
         fontWeight: FontWeight.w800,
-        fontFamily: 'NexaSlab',
+        fontFamily: 'ABeeZee',
         package: _dsPackage,
       );
 
@@ -57,7 +57,7 @@ class DsTexts {
         fontSize: 16,
         letterSpacing: 1.75,
         fontWeight: FontWeight.w400,
-        fontFamily: 'NexaSlab',
+        fontFamily: 'ABeeZee',
         package: _dsPackage,
       );
 
@@ -65,7 +65,7 @@ class DsTexts {
         fontSize: 14,
         letterSpacing: 1.75,
         fontWeight: FontWeight.w400,
-        fontFamily: 'NexaSlab',
+        fontFamily: 'ABeeZee',
         package: _dsPackage,
       );
 
@@ -73,7 +73,7 @@ class DsTexts {
         fontSize: 14,
         letterSpacing: 1.0,
         fontWeight: FontWeight.w800,
-        fontFamily: 'NexaSlab',
+        fontFamily: 'ABeeZee',
         package: _dsPackage,
       );
 
@@ -82,7 +82,7 @@ class DsTexts {
       fontSize: 14,
       letterSpacing: 1.25,
       fontWeight: FontWeight.w700,
-      fontFamily: 'NexaSlab',
+      fontFamily: 'ABeeZee',
       package: _dsPackage,
     );
   }
@@ -91,7 +91,7 @@ class DsTexts {
         fontSize: 12,
         letterSpacing: 1.25,
         fontWeight: FontWeight.w700,
-        fontFamily: 'NexaSlab',
+        fontFamily: 'ABeeZee',
         package: _dsPackage,
       );
 }
